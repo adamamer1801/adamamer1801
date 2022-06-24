@@ -13,4 +13,4 @@
 
 ### I'm currently open for freelancing, you can contact me at **adam@incryment.com** or join my freelancing server [here](https://incryment.com/discord)
 
-[![dnaky's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=dnaky)
+[![dnaky's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=dnaky&count_private=true&title_color=fcbf49&text_color=eae2b7)
