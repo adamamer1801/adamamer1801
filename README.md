@@ -1,6 +1,6 @@
-### Salam Waalaykum
+# Salam Waalaykum
 ## I am Adam.
-# I aspire to be a full-stack engineer, or a networking engineer, whichever I enjoy more in the future. In Sha Allah.
+### I aspire to be a full-stack engineer, or a networking engineer, whichever I enjoy more in the future. In Sha Allah.
 ### I can code in a variety of languages such as:
 - Go
 - Swift
@@ -11,6 +11,6 @@
 - TypeScript/JavaScript
 - Java
 
-## I'm currently open for freelancing, you can contact me at **adam@incryment.com** or join my freelancing server [here](https://incryment.com/discord)
+### I'm currently open for freelancing, you can contact me at **adam@incryment.com** or join my freelancing server [here](https://incryment.com/discord)
 
 [![dnaky's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=dnaky)
