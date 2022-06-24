@@ -1,16 +1,16 @@
-### Hi there 👋
+### Salam Waalaykum
+## I am Adam.
+# I aspire to be a full-stack engineer, or a networking engineer, whichever I enjoy more in the future. In Sha Allah.
+# I can code in a variety of languages such as:
+- Go
+- Swift
+- SQL (if that's really a lang)
+- HTML
+- CSS
+# but my main languages are: 
+- TypeScript/JavaScript
+- Java
 
-<!--
-**dnaky/dnaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently open for freelancing, you can contact me at **adam@incryment.com** or join my freelancing server [here](https://incryment.com/discord)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![dnaky's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=dnaky)]
