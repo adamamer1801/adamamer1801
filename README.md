@@ -15,5 +15,5 @@
 
 ![dnaky's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=dnaky&count_private=true&title_color=fcbf49&text_color=eae2b7&bg_color=2f3e46&hide_border=true&border_radius=3)
 
-![dnaky's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnaky)]
+![dnaky's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnaky&layout=compact&count_private=true&title_color=fcbf49&text_color=eae2b7&bg_color=2f3e46&hide_border=true&border_radius=3)
 
