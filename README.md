@@ -7,6 +7,7 @@
 - SQL (if that's really a lang)
 - HTML
 - CSS
+- Python
 ### but my main languages are: 
 - TypeScript/JavaScript
 - Java
