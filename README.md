@@ -18,3 +18,5 @@
 
 ![dnaky's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnaky&layout=compact&count_private=true&title_color=fcbf49&text_color=ffffff&bg_color=2f3e46&hide_border=true&border_radius=3&langs_count=5)
 
+# “Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live”
+# ― John Woods 
